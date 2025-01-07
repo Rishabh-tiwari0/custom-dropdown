@@ -15,6 +15,10 @@ This project is a customizable dropdown component built with HTML, CSS, and Java
    ```sh
    git clone https://github.com/rishabh-tiwari0/custom-dropdown.git
    ```
+
+You can also view the live project at [https://custom-dropdown-zeta.vercel.app/](https://custom-dropdown-zeta.vercel.app/)
+
+````
 2. Navigate to the project directory:
 
    ```sh
@@ -52,7 +56,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact [yourname@example.com](mailto:yourname@example.com).
+For any questions or feedback, please contact [Contact us](mailto:rishabhtiwari0010@gmail.com).
 
 ## Built With
 
@@ -86,4 +90,5 @@ Make sure you have Node.js and npm installed. You can download them from [here](
    npm run dev
    ```
 
-Your application should now be running on [http://localhost:3000](http://localhost:3000).
+Your application should now be running on [http://localhost](http://localhost:5173).
+````
