@@ -71,7 +71,7 @@ Make sure you have Node.js and npm installed. You can download them from [here](
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/custom-dropdown.git
+   git clone https://github.com/Rishabh-tiwari0/custom-dropdown.git
    ```
 2. Navigate to the project directory:
    ```sh
